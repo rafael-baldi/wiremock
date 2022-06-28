@@ -1,0 +1,1 @@
+Essa apresentação foi desenvolvida com a intenção de disseminar o conhecimento de Wiremock, caso tenha qualquer observação, favor entrar em contato. Abraço
